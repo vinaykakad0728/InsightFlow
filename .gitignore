@@ -1,2 +1,15 @@
-node_modules/
+# System files
 .DS_Store
+Thumbs.db
+
+# Office / Excel temporary files
+~
+
+# Power BI / Tableau temp files
+*.pbix.tmp
+*.twb.tmp
+
+# Node / Python
+node_modules/
+__pycache__/
+.env
